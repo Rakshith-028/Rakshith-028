@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Rakshith 👋
 
-<!--
-**Rakshith-028/Rakshith-028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AIML Student  
+💻 Full Stack Developer | AI Enthusiast
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,react,nodejs,mongodb,mysql,git,github,vscode" />
+</p>
+
+-## Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js" />
+
+## Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+
+## Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
